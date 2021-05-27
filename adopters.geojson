@@ -101,5 +101,6 @@
     {"type": "Feature", "properties": {"institution": "Dokuz Eylül University"}, "geometry": {"type": "Point", "coordinates": [27.1347313, 38.430691]}},
     {"type": "Feature", "properties": {"institution": "Avignon Université"}, "geometry": {"type": "Point", "coordinates": [4.81800084304089, 43.94915615]}},
     {"type": "Feature", "properties": {"institution": "<a href='https://gfoss.eu'>GFOSS - Open Technologies Alliance</a>"}, "geometry": {"type": "Point", "coordinates": [23.7810545,37.9781205]}}
+    {"type": "Feature", "properties": {"institution": "ADULLACT"}, "geometry": {"type": "Point", "coordinates": [3.87354, 43.61142]}}
   ]
 }
